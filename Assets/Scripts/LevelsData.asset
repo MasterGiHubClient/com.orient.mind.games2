@@ -1,0 +1,450 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95d64a63c484f974085d81f97a34d155, type: 3}
+  m_Name: LevelsData
+  m_EditorClassIdentifier: 
+  levels_OrientMind:
+  - level_OrientMind: 1
+    spritesLevel_OrientMind:
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    cellToReach_OrientMind:
+    - sprite_OrientMind: {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+      count_OrientMind: 20
+  - level_OrientMind: 2
+    spritesLevel_OrientMind:
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    cellToReach_OrientMind:
+    - sprite_OrientMind: {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+      count_OrientMind: 20
+  - level_OrientMind: 3
+    spritesLevel_OrientMind:
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    cellToReach_OrientMind:
+    - sprite_OrientMind: {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+      count_OrientMind: 20
+  - level_OrientMind: 4
+    spritesLevel_OrientMind:
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    cellToReach_OrientMind:
+    - sprite_OrientMind: {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+      count_OrientMind: 20
+  - level_OrientMind: 5
+    spritesLevel_OrientMind:
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    cellToReach_OrientMind:
+    - sprite_OrientMind: {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+      count_OrientMind: 20
+  - level_OrientMind: 6
+    spritesLevel_OrientMind:
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    cellToReach_OrientMind:
+    - sprite_OrientMind: {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+      count_OrientMind: 20
+  - level_OrientMind: 7
+    spritesLevel_OrientMind:
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    cellToReach_OrientMind:
+    - sprite_OrientMind: {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+      count_OrientMind: 20
+  - level_OrientMind: 8
+    spritesLevel_OrientMind:
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    cellToReach_OrientMind:
+    - sprite_OrientMind: {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+      count_OrientMind: 20
+  - level_OrientMind: 9
+    spritesLevel_OrientMind:
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    cellToReach_OrientMind:
+    - sprite_OrientMind: {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+      count_OrientMind: 20
+  - level_OrientMind: 10
+    spritesLevel_OrientMind:
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    cellToReach_OrientMind:
+    - sprite_OrientMind: {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+      count_OrientMind: 20
+  - level_OrientMind: 11
+    spritesLevel_OrientMind:
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    cellToReach_OrientMind:
+    - sprite_OrientMind: {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+      count_OrientMind: 20
+  - level_OrientMind: 12
+    spritesLevel_OrientMind:
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    cellToReach_OrientMind:
+    - sprite_OrientMind: {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+      count_OrientMind: 20
+  - level_OrientMind: 13
+    spritesLevel_OrientMind:
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    cellToReach_OrientMind:
+    - sprite_OrientMind: {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+      count_OrientMind: 20
+  - level_OrientMind: 14
+    spritesLevel_OrientMind:
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    cellToReach_OrientMind:
+    - sprite_OrientMind: {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+      count_OrientMind: 20
+  - level_OrientMind: 15
+    spritesLevel_OrientMind:
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: 267ce9fa451ac8843b385c6f335a3c7b, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+    - {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+    - {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 4418e5f4794cf744e8f1fc7cafd23e79, type: 3}
+    - {fileID: 21300000, guid: 780e1a366a852274c93fb3dca169561e, type: 3}
+    cellToReach_OrientMind:
+    - sprite_OrientMind: {fileID: 21300000, guid: a4c3306572a5638468bf4a5d97fbb1cc, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: 4affdf2716f6fcc4bbc14f1607331af8, type: 3}
+      count_OrientMind: 20
+    - sprite_OrientMind: {fileID: 21300000, guid: 6430139b30fc3f04e8e10c69ec9a224c, type: 3}
+      count_OrientMind: 20
